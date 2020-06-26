@@ -16,6 +16,7 @@ Andreas Knuepfer, ZIH, Technical University Dresden, Germany
 
 Alexandru Calotoiu, TU Darmstadt, Germany\\
 Allen Malony, University of Oregon, USA\\
+Barton Miller, University of Wisconsin-Madison, USA\\
 Brian J. N. Wylie, Juelich Supercomputing Centre, Germany\\
 Gerhard Wellein, FAU, Germany\\
 Heidi Poxon, Cray / Hewlett Packard Enterprise, USA\\
